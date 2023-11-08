@@ -1,0 +1,9 @@
+[core]
+    remote = remote
+    autostage = false
+
+['remote "remote"']
+    url = s3://4d3443e4-efa5fc0f-9f4a-46ce-ba04-2e066b90c8d1
+    endpointurl = https://s3.timeweb.com
+    access_key_id = hx33411
+    secret_access_key = 7ea506837bdffce557d5b6cbdc1ffef6
